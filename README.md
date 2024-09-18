@@ -17,7 +17,7 @@ cd sdbackup
 
 <h3>CONFIG</h3>
 We must configure the path where the script will look for the files and the path where the backup will be made.
-
+<br><br>
 <pre>
 nano sdbackup.sh
 </pre>
